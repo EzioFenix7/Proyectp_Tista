@@ -1,0 +1,32 @@
+#contenedor
+{
+  width: 84%;
+  height: 70%;
+  padding: 2%;
+  margin: 1em auto;
+  background: #DDDDDD;
+}
+#news
+{
+  background: #60605d;
+  font-size: 2em;
+  text-align: center;
+  width: 66%;
+  height: 96%;
+  padding: 2% auto;
+  float: left;
+
+
+}
+#bienvenida
+{
+  background: #00aaff;
+  border-radius: 20px;
+  font-size: 2em;
+  text-align: center;
+  width: 30%;
+  height: 96%;
+  padding: 2% auto;
+  float:  right;
+
+}
